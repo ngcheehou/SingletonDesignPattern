@@ -14,7 +14,7 @@ namespace NonSingletonDemo
 
         public NonSingletonLogger()
         {
-             Thread.Sleep(2000);//take a lot of time to fetches configuration data, establishes database connections etc 
+             Thread.Sleep(2000);//pretends it takes a lot of time to fetches configuration data, establishes database connections etc 
 
         }
         public void LogMessage(string message)

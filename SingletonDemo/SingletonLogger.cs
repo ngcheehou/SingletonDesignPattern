@@ -17,7 +17,7 @@ namespace SingletonDemo
 
         private SingletonLogger()
         {
-            Thread.Sleep(2000);
+            Thread.Sleep(2000);//pretends it takes a lot of time to fetches configuration data, establishes database connections etc 
             Console.WriteLine( "Instance Created");
             
         }
