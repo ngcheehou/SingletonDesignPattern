@@ -1,4 +1,3 @@
  
- https://ngcheehou.medium.com/problem-solving-with-the-singleton-design-pattern-a-before-and-after-code-analysis-part-1-42f42156a09c
-
+https://medium.com/p/42f42156a09c
 https://medium.com/p/7ad31e750960
